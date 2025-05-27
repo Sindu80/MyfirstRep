@@ -7,4 +7,4 @@ I will create a merge conflict
 Another explanation
 * use the star to make bullet points
 * Bullet point2
-* Bullet point3
+
