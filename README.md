@@ -12,6 +12,7 @@ Another explanation
 * use the star to make bullet points
 * Bullet point2
 * bullet point 3
+* bullet point 4
 
 ** here is new addition
 
