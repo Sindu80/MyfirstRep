@@ -8,6 +8,8 @@ I will create a merge conflict
 
 ## This is a subheading
 Another explanation
-* use the star to make bullet points
-* Bullet point2
+** here is new addition
 
+
+**use new learning 
+** use new 
